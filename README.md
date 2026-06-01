@@ -29,10 +29,6 @@ I'm always learning, curious about new technologies, and motivated to grow as a 
 
 ---
 
-<a href="http://www.github.com/shytuleva24"><img src="https://github-readme-stats.vercel.app/api?username=shytuleva24&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="shytuleva24's GitHub stats" /></a>
-
----
-
 Thank you for viewing my profile!
 ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/307507a5-3676-456b-8cf6-c37950666624/dby13uw-85631bc3-eeef-48a5-927b-4b5b47414ec1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMwNzUwN2E1LTM2NzYtNDU2Yi04Y2Y2LWMzNzk1MDY2NjYyNFwvZGJ5MTN1dy04NTYzMWJjMy1lZWVmLTQ4YTUtOTI3Yi00YjViNDc0MTRlYzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.g4qjrpb2VpurCgKEok-9mfx0AQnRZ4iktNy-cxOEr7A)
 
