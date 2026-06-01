@@ -9,7 +9,7 @@
 Strong in state management (NgRx, Signals), performance optimization, and maintainable architecture. Recently improved a project by reducing code complexity by 30% and delivering features like payments and data visualizations.
 I'm always learning, curious about new technologies, and motivated to grow as a developer. My life motto is: "There is nothing impossible, only a lack of experience." I love traveling and am always open to new challenges🚀</span>
     
-  * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-olga_shutyleva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olga_shutyleva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shytuleva@gmail.com)
+  * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-olha_shutylova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olha_shutylova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shytuleva@gmail.com)
  
 ---
 
