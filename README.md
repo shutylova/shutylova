@@ -1,11 +1,13 @@
 
-# Hi my name is Olga Shutyleva ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f12d5eb3-e3fa-4ac6-9871-dbabb66ec9ae/dc0shxf-1b3bee99-6592-4037-b043-74827eedcb23.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxMmQ1ZWIzLWUzZmEtNGFjNi05ODcxLWRiYWJiNjZlYzlhZVwvZGMwc2h4Zi0xYjNiZWU5OS02NTkyLTQwMzctYjA0My03NDgyN2VlZGNiMjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.v76y_YYtT5lTvyqlFJn_ssJMIVlyECQ-2Knr8myqMJM)
+# Hi my name is Olha Shutylova ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f12d5eb3-e3fa-4ac6-9871-dbabb66ec9ae/dc0shxf-1b3bee99-6592-4037-b043-74827eedcb23.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxMmQ1ZWIzLWUzZmEtNGFjNi05ODcxLWRiYWJiNjZlYzlhZVwvZGMwc2h4Zi0xYjNiZWU5OS02NTkyLTQwMzctYjA0My03NDgyN2VlZGNiMjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.v76y_YYtT5lTvyqlFJn_ssJMIVlyECQ-2Knr8myqMJM)
 
   <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="250"/>
 
   ### 👨‍💻 About Me:
 
-  <span>Hi! I am a highly motivated developer with a passion for creativity and constantly searching for new ideas. I have successfully managed several international projects. In addition to my primary work, I volunteer by teaching children HTML and CSS, hoping to inspire them to develop a love for coding. My life motto is: "There is nothing impossible, only a lack of experience." I love traveling and am always open to new challenges🚀</span>
+  <span>Front-end developer with 4+ years of experience in Angular, TypeScript, and RxJS. I build clean, scalable applications for the financial domain and enjoy turning complex logic into simple, user-friendly interfaces.
+Strong in state management (NgRx, Signals), performance optimization, and maintainable architecture. Recently improved a project by reducing code complexity by 30% and delivering features like payments and data visualizations.
+I'm always learning, curious about new technologies, and motivated to grow as a developer. My life motto is: "There is nothing impossible, only a lack of experience." I love traveling and am always open to new challenges🚀</span>
     
   * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-olga_shutyleva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olga_shutyleva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shytuleva@gmail.com)
  
